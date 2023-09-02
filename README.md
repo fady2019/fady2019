@@ -14,10 +14,6 @@
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/fady-emad-400b71216/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fady-emad-400b71216/" height="30" width="40" />
   </a>
-  
-  <a href="https://fb.com/https://www.facebook.com/fadyemad309/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/fadyemad309/" height="30" width="40" />
-  </a>
 </p>
 
 ### Languages and Tools:
