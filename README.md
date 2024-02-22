@@ -2,7 +2,7 @@
 <h3 align="center">I'm a Software Engineer, Full-Stack (MERN) Developer from Cairo, Egypt</h3>
 
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React & Node.js
+- 🌱 I’m currently learning Next.js
 - 💞️ I’m looking to collaborate with other React & Node.js developers
 - 👨‍💻 All of my projects are available at [My Portfolio](https://fady-emad-portfolio.web.app/)
 - 📫 How to reach me: **f.emad258456@gmail.com**
