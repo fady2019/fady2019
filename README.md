@@ -109,6 +109,12 @@
     </a> 
   </kbd>
 
+  <kbd title="Redis">
+    <a href="https://redis.io" target="_blank" rel="noreferrer"> 
+      <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/> 
+    </a>
+  </kbd>
+
   <kbd title="JWT">
     <a href="https://jwt.io" target="_blank" rel="noreferrer"> 
       <img src="https://jwt.io/img/pic_logo.svg" alt="jwt" width="40" height="40"/> 
