@@ -129,7 +129,7 @@
   
   <kbd title="Apollo GraphQL">
     <a href="https://www.apollographql.com/" target="_blank" rel="noreferrer"> 
-      <img src="https://github.com/prplx/svg-logos/blob/master/svg/apollo.svg" alt="graphql" width="40" height="40"/> 
+      <img src="https://github.com/prplx/svg-logos/blob/master/svg/Apollo.svg" alt="graphql" width="40" height="40"/> 
     </a>
   </kbd>
   
