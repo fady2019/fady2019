@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate with other React & Node.js developers
 - 👨‍💻 All of my projects are available at [My Portfolio](https://fady-emad-portfolio.web.app/)
 - 📫 How to reach me: **f.emad258456@gmail.com**
-- 📄 Know about my experiences: [CV](https://drive.google.com/file/d/1SoioVF6J6f_ujyBYppWBJdcu22-1V8e-/view?usp=drive_link)
+- 📄 Know about my experiences: [CV]([https://drive.google.com/file/d/1SoioVF6J6f_ujyBYppWBJdcu22-1V8e-/view?usp=drive_link](https://docs.google.com/document/d/1YG2L6wxmOdNr3YGfgDy7IIm-HFXseBzabX0CU4XAsMI/edit?usp=drive_link))
 
 ## Connect with me:
 
